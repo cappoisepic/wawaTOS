@@ -4,4 +4,4 @@
 2. dont purposely do bad shit to the bot
 3. follow discord tos
 
-:3
+breaking any of these will lead to blacklist/clearing progress
