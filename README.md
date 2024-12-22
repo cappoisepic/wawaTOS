@@ -1,7 +1,6 @@
 # wawaTOS
 
-1. don't be a dickhead
-2. dont purposely do bad shit to the bot
-3. follow discord tos
+1. don't abuse the system
+2. no alts
 
-breaking any of these will lead to blacklist/clearing progress
+dm cappo (ragingracism) for data removal
